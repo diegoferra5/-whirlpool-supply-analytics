@@ -7,14 +7,14 @@ This project performs exploratory data analysis (DEA) on customer address, order
 ```
 bloque_clase/
 ├── data/
-│   ├── processed/              # Processed data files
+│   ├── raw/              # Raw data files
 │   │   ├── 200K_CustomerAddress.xlsx
 │   │   ├── 200K_GeneralOrderDetail.xlsx
 │   │   ├── 200K_IndividualCustomer.xlsx
 │   │   ├── 200K_OrdersList.xlsx
 │   │   ├── 200K_ProductOrderDetail.xlsx
 │   │   └── Product_Catalog.xlsx
-│   └── raw/                    # Raw data files (ignored in git)
+│   └── processed/                    # processed data files (ignored in git)
 ├── notebooks/
 │   └── DEA.ipynb               # Main exploratory data analysis notebook
 ├── src/
