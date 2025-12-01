@@ -97,5 +97,3 @@ A clean, structured, and well-modeled dataset will enable dashboards that suppor
 - Enhanced visibility into digital sales performance
 
 ---
-
-If you want, I can also generate a **GitHub-ready README.md version**, or create a recommended folder structure for your entire pipeline (`/src`, `/data`, `/sql`, `/docs`, etc.).
