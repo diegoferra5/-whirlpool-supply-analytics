@@ -14,5 +14,8 @@ dependencies:
   - scikit-learn
   - pip
   - seaborn
+  - sqlalchemy
+  - psycopg2
   - pip:
     - pytest
+    - python-dotenv
